@@ -8,7 +8,7 @@
 
 ### *Reviewed By*: **Kaden Woodward**
 
- ![D.C. Segregation](https://kaden4343.github.io/The-Wood/images/PlaceSeg.jpeg)
+ ![D.C. Segregation](https://kaden4343.github.io/The-Wood/images/PlaceSeg.jpg)
 
   Placing Segregation is an interactive map of population and segregation variants across three cities in 1860, Washington D.C., Omaha, & Tennessee. The map incorporates three different demographic, geographic, and social locations to show the true variety of how segregation played a role in the development of cities.The choosing of the cities also showed that segregation was not a random or rare thing. The different filters of segregation in the maps include skin color, occupation, nationality and wealth. A common misconception about segregation, in this time period specifically, was that the only people that were seen as segregated were people of different color than the “average American”. Although race was the biggest factor of segregation in most of the country, economic status, nationality, and occupation were other prevalent factors that segregated people into certain locations. 
 
