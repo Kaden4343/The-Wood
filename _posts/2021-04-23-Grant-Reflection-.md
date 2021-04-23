@@ -1,0 +1,22 @@
+## Grant Narrative & Reflection Blog
+
+My grant project is called ‘Surviving the Financial Crises of America’. What led me to creating this was my love for finance. My major is Finance, so I have developed a special bond with it since my sophomore year. The project is an interactive timeline that shows different characteristics of financial crises throughout America’s history. 
+	
+  The project has different filters to allow the reader to view the timeline from different perspectives. The filters or categories include, the cause of the crisis, the signs of the crisis coming, and how the crisis affected different demographics. It connects to digital humanities by attempting to bring awareness to the significance of financial crises, and how to help prevent them.
+	
+  My project was completely different from when I wrote my abstract. My abstract was way too broad and would have cost too much money in funding. So, to remedy that I changed from a map format to a timeline, and focused on the financial crises of just America and not the world. I think it was for the best that the professor advised me to take a more specific approach because it saved me a ton of time and work. One of the biggest things is getting a project to conform to a budget, so as you go along you realize your project can not be as you envisioned. 
+	
+  I think my project is very unique in the fact that some other studies and projects have similar elements in theirs, they just did not have all of the elements mine did. For example, one of the best projects I saw that resembled mine was done by the Federal Reserve, and it included the causes and details of five financial crises throughout American history. As good as that project was it still lacked an interactive format like a timeline or map. My project differentiates itself by the extent of information in it, the interactive timeline format, and the variety of filters and categories of information.
+	
+  Creating this project really opened me up to a whole new style of writing. Like I always knew how to be persuasive in writing, but writing a grant proposal is a totally different type of persuasion. To me it seems like an extremely hard tryout for a football team. For example, if the team doesn’t like what they see in the first few minutes they are not going to be interested much. If a team does not see something that stands out, or it looks like you may not know what you are doing 100% then you won’t make the team. The same goes with grant projects.	
+	
+  This class in general has opened me up to a whole new side of the overall english field. Before I took this class, I had no idea that it even existed. On day one I had no definition of digital humanities, and I think a lot of people felt the same. It is one of the only fields of study that I can think of that does not have a formal definition. We went through about fifty different definitions according to DH scholars and none of them really stuck with me. So over the course I have developed my definition of DH, and it is the practice of transforming humanist projects, documents, art, etc. into something that widens the perspective of the humanistic claim.
+	
+  I think the hardest part about this course was just writing completely different and just doing things I have never done before. Every single project from the blog posts to the TEI coding, seemed impossible at first, but turned out to be much easier than expected. Especially with the TEI coding I had no idea what I was going to do since I had never coded before. But as the professor walked us through it and looking at some readings that helped out it turned out to be fairly easy and something I had a little bit of interest in.
+	
+  ![Doc Markup](https://kaden4343.github.io/The-Wood/images/TEIblog3.jpg)
+
+  
+  The thing I liked the most from this class was the grant project. I love the fact that we were able to tie in something from our major to the class. No other class that I have taken or heard of allows you to do it. So, to me that was important because it gave me something that grabs my interest and inspires me to come up with something great. Part of me wishes we could do the full grant project, but I have neither the experience nor the skills. 
+	
+  All in all this class has challenged me like no other, and has made me think differently than any other class. This will definitely be a class I will never forget, and I hope I will be able to use some of the stuff I learned in my career or life in general.
